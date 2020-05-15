@@ -23,10 +23,10 @@ JDD
 ## 联系我
 
 * GitHub：[303Donatello](https://github.com/gitworldhero)
-* email：gek2015@foxmail.com
+* https://www.cnblogs.com/303donatello/
 
 ## 关于本站
-* 仅做博客内容更新。
+* 不再进行更新， 搬家至 https://www.cnblogs.com/303donatello/
 
 ## 友情链接
 
