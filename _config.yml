@@ -16,20 +16,20 @@ permalink: /:year/:month/:day/:title/
 # other links
 twitter_username: 
 facebook_username: 
-github_username:  gitworldhero
+github_username:  303donatello
 email: gek2015@foxmail.com
 weibo_username: 
 zhihu_username: 
 linkedIn_username: 
 dribbble_username:
 
-description_footer: 本站记录一个低级安全研究员的自我救赎之路！
+description_footer: 
 
 # comments
 # two ways to comment, only choose one, and use your own short name
 # 两种评论插件，选一个就好了，使用自己的 short_name
 duoshuo_shortname: #hygblog
-disqus_shortname: shellcodes
+disqus_shortname: 303donatello
 
 # statistic analysis 统计代码
 # 百度统计 id，将统计代码替换为自己的百度统计id，即
